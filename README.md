@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm AMON TANUI 
 
 I'm a passionate software developer with experience in building full-stack web applications, machine learning models, and contributing to open-source projects. Let's build something amazing together! 🚀
 
