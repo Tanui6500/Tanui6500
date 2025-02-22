@@ -26,13 +26,5 @@ I'm a software engineer with 3+ years of experience in full-stack development. I
 
 ## 📫 How to reach me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)
-- 🐦 Twitter: [@your-twitter](https://twitter.com/your-twitter)
-- 🌍 Personal Blog: [your-blog](https://www.your-blog.com)
+- 📧 Email: amontanui55@gmail.com
 
-## 📈 My Badges
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23F48024.svg?&style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-id)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=follow&style=social)](https://github.com/your-username)
